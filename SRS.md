@@ -46,4 +46,12 @@ imdb.com
 1.	Приложение должно быстро работать
 ### 3.2.2 Ограничения
 1.	Для использования приложения требуется подключения к сети интернет
-
+# Ссылки
+1. Sequence : https://github.com/vlad-dunayskiy630501/Filme-Boom/tree/master/document/Sequence
+2. UseCase : https://github.com/vlad-dunayskiy630501/Filme-Boom/tree/master/document/UseCase
+3. Activity : https://github.com/vlad-dunayskiy630501/Filme-Boom/tree/master/document/activity
+4. Class diagram : https://github.com/vlad-dunayskiy630501/Filme-Boom/blob/master/document/class_diag.JPG?raw=true
+5. Diploym : https://github.com/vlad-dunayskiy630501/Filme-Boom/blob/master/document/deploym.JPG?raw=true
+6. State diagram : https://github.com/vlad-dunayskiy630501/Filme-Boom/blob/master/document/state%20diag.JPG?raw=true
+7. Testing : https://github.com/vlad-dunayskiy630501/Filme-Boom/tree/master/document/testing
+8. Code : https://github.com/vlad-dunayskiy630501/Filme-Boom/tree/master/Filme-boom%20top250
